@@ -2,4 +2,4 @@
 
 Allows you to enter city and country and retrieve the weather.
 
-![UI Screenshot]https://github.com/leshayface/2-weather-api-app/blob/master/weather_UI_screenshot.png
+![UI Screenshot](https://github.com/leshayface/2-weather-api-app/blob/master/weather_UI_screenshot.png)
